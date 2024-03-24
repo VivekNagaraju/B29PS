@@ -14,19 +14,30 @@ b=6
 c=a+b
 print(c)
 '''
-def add_sub(a, b): # function with parameters/ arguments (formal arguments)
+def add(a, b):
     c=a+b
+    return c
+
+def sub(a, b):
     d=a-b
+    return d
+def add_sub(a, b): # function with parameters/ arguments (formal arguments)
+    c=add(a, b)
+    d=sub(a, b)
     # print(c)
     # print(d)
     return c, d
     
 e, f=add_sub(2, 3) # actual arguments
-print(e)
-print(f)
-# add(4, 5) 
-
-  
-    
+# print(e)
+# print(f)
+# print(add(4, 5)) 
+# print(sub(7, 3))
+# def display(): # recursive functions
+#     print("This is display function")
+#     display()
+#
+#
+# display()
     
     
