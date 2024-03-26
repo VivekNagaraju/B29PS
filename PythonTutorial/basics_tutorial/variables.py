@@ -3,7 +3,7 @@ Created on 10-Mar-2024
 
 @author: admin
 '''
-
+'''
 a=2 # define/ initializing a variable
 print("a =",a)
 
@@ -27,6 +27,12 @@ print("m =", m)
 print("n =", n)
 print("o =", o)
 
+'''
+
+a=2
+b=2.5
+print(id(a))
+print(id(b))
 
 
 
