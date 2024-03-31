@@ -18,11 +18,21 @@ Objects:
 - every object has features/ properties. Objects belongs to particular class have common features
 - every object can perform some actions
 
-Object = properties + actions
+Object/class = properties + actions
 
 Develop/ define a class having common features/ properties and actions/functionalities
 
 > Class as a blue- print for an object
 
 Class --> Objects
+
+1. Inheritance
+2. Polymorphism
+3. Abstraction
+4. Encapsulation
+
+
+
+
+
 '''

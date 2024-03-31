@@ -30,7 +30,8 @@ print("o =", o)
 '''
 
 a=2
-b=2.5
+b=2
+print(type(a))
 print(id(a))
 print(id(b))
 
