@@ -8,7 +8,7 @@ Morph= form
         + -->  arithmetic addition of 2 Numerical data type objects
           --> combining  2 strings
           --> Extending a list with the elements of another list
-    b. Method overloading
+    b. Method overloading: multiple methods with same name but different number of arguments
     c. Constructor overloading
 2. Over-riding: 
     a. Method over-riding
